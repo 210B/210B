@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+<a href="https://break210b.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
 <!--
 **210B/210b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
